@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Linear_Layout_Relative_Layout</string>
     <string name="student_id">Student Id</string>
     <string name="remember_me">Remember Me</string>
     <string name="forget_password">Forget Password?</string>
